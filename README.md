@@ -1,0 +1,1 @@
+# katalon-studio-extent-reports-plugin-releases
